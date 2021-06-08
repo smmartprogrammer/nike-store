@@ -1,0 +1,42 @@
+{
+  "Men's-Lightweight-Athletic-Shoe": {
+    "name": "Men's Athletic Shoe",
+    "img": "https:p11.secure.hostingprod.com/@site.healthyfeetstore.com/ssl/previews/AP-9708-3L-large.jpg",
+    "price": "$100"
+  },
+  "Jordan-1-Low-SE-Black-Metallic-Silver-(W)": {
+    "name": "Jordan 1 Low SE Black Metallic Silver (W)",
+    "img": "https://images.stockx.com/images/Air-Jordan-1-Low-SE-Black-Metallic-Silver-W.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1613788041",
+    "price": "$90"
+  },
+  "Wmns-Suede-Classic-21-'Black-White'": {
+    "name": "Wmns Suede Classic 21 'Black White",
+    "img": "https://image.goat.com/750/attachments/product_template_pictures/images/049/909/681/original/381410_01.png.png",
+    "price": "$70"
+  },
+  "Fresh-Foam-Tempo-2E-Wide-'Velocity-Red'": {
+    "name": "Fresh Foam Tempo 2E Wide 'Velocity Red",
+    "img": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/804/original/MTMPOCR_2E.png.png",
+    "price": "$110"
+  },
+  "Street-Encounter-4-Slides-'Mod-Grey'": {
+    "name": "Fresh Foam Tempo 2E Wide 'Velocity Red",
+    "img": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/545/original/3022914_100.png.png",
+    "price": "$60"
+  },
+  "Audazo-V5-Pro-IN-'Platinum-Sky-Vivid-Coral'": {
+    "name": "Audazo V5 Pro IN 'Platinum Sky Vivid Coral'",
+    "img": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/800/original/MSASIPS5.png.png",
+    "price": "$110"
+  },
+  "Reebok-Classic-Leather-Project-0-CL-Maison-Margiela-Black": {
+    "name": "Reebok Classic Leather Project 0 CL Maison Margiela Black",
+    "img": "https://images.stockx.com/images/Reebok-Classic-Leather-Project-0-CL-Maison-Margiela-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1614047206",
+    "price": "$300"
+  },
+  "Club-MEMT-'White-Collegiate-Navy'": {
+    "name": "Club MEMT 'White Collegiate Navy'",
+    "img": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/725/original/FW8206.png.png",
+    "price": "$65"
+  }
+}
